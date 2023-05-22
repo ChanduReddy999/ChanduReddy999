@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/chanduvadala" target="blank"><img src="https://img.shields.io/twitter/follow/chanduvadala?logo=twitter&style=for-the-badge" alt="chanduvadala" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HMJTYDMUD-8b0xN0hj_UQzRpau7kMwCH/view?usp=share_link](https://drive.google.com/file/d/1HMJTYDMUD-8b0xN0hj_UQzRpau7kMwCH/view?usp=share_link)
 
-- ⚡ Fun fact: **I am Funny**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
