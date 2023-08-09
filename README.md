@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1snXLW55thmVrbxS3x89ZlP320ZNUvZ9w/view](https://drive.google.com/file/d/1snXLW55thmVrbxS3x89ZlP320ZNUvZ9w/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pv3i9UJ5g7LegsQxbCo57h-l8WnOn3A9/view?usp=sharing]
 - ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
