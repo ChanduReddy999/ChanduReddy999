@@ -5,22 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandureddy999&label=Profile%20views&color=0e75b6&style=flat" alt="chandureddy999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chanduvadala" target="blank"><img src="https://img.shields.io/twitter/follow/chanduvadala?logo=twitter&style=for-the-badge" alt="chanduvadala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chanduvadala" target="_blank"><img src="https://img.shields.io/twitter/follow/chanduvadala?logo=twitter&style=for-the-badge" alt="chanduvadala" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pv3i9UJ5g7LegsQxbCo57h-l8WnOn3A9/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wrSg2MM-KuvXGBlOrM7p5k7Cib0tX3gV/view?usp=sharing]
 - ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chanduvadala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanduvadala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandra-shekar-reddy-vadala-2a287024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-shekar-reddy-vadala-2a287024b" height="30" width="40" /></a>
-<a href="https://fb.com/vadala.c.reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vadala.c.reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/vadalachandureddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vadalachandureddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chandured99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandured99" height="30" width="40" /></a>
+<a href="https://twitter.com/chanduvadala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanduvadala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandra-shekar-reddy-vadala-2a287024b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-shekar-reddy-vadala-2a287024b" height="30" width="40" /></a>
+<a href="https://fb.com/vadala.c.reddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vadala.c.reddy" height="30" width="40" /></a>
+<a href="https://instagram.com/vadalachandureddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vadalachandureddy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chandured99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandured99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
