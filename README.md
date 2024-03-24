@@ -11,13 +11,13 @@
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
-- 📄 Know about my experiences [[Chandu Reddy Resume](https://drive.google.com/file/d/1gfaF16wJjFlYHG60pgUQ0-FW1roZK6ZW/view?usp=sharing)]
+- 📄 Know about my experiences [[Chandu Reddy Resume](https://drive.google.com/file/d/1Q0GMl7l3576HDRgYfEvg_Gqn0WJ0cYxA/view?usp=drive_link)]
 - ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chanduvadala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanduvadala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandra-shekar-reddy-vadala-2a287024b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-shekar-reddy-vadala-2a287024b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandra-shekar-reddy-vadala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-shekar-reddy-vadala-2a287024b" height="30" width="40" /></a>
 <a href="https://fb.com/vadala.c.reddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vadala.c.reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/vadalachandureddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vadalachandureddy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandured99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandured99" height="30" width="40" /></a>
