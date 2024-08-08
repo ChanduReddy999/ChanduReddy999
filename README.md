@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
-- 📄 Know about my experiences [[Chandu Reddy Resume](https://drive.google.com/file/d/1ZAglJUFqvDQIus8mavf9UOzrvWV5Qdqw/view?usp=drive_link)]
+- 📄 Know about my experiences **[[Chandu Reddy Resume](https://drive.google.com/file/d/1i26F-mRVOYVWLO69IxUbYj_FeXnhskPs/view?usp=drive_link)]**
 - ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
