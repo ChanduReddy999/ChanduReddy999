@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/chanduvadala" target="_blank"><img src="https://img.shields.io/twitter/follow/chanduvadala?logo=twitter&style=for-the-badge" alt="chanduvadala" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ArcGIS SDK JavaScript**
 
 - 📫 How to reach me **chandureddyvadala1999@gmail.com**
 
-- 📄 Know about my experiences **[[Chandu Reddy Resume](https://drive.google.com/file/d/1i26F-mRVOYVWLO69IxUbYj_FeXnhskPs/view?usp=drive_link)]**
-- ⚡ Fun fact: **I am Funny**
+- 📄 Know about my experiences **[[Chandu Reddy Resume](https://drive.google.com/file/d/1UcdJaIl3rJKjjFDsXWzTB4ZMwESxikfZ/view?usp=sharing)]**
+- ⚡ Fun fact: **It’s not a bug, it’s a feature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +24,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" alt="expressjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/174px-PostgreSQL_logo.3colors.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" alt="expressjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://docs.djangoproject.com/en/6.0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=160&id=IuuVVwsdTi2v&format=png" alt="django" width="40" height="40"/> </a> <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=j2D-17SBxXAJ&format=png" alt="geoserver" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandureddy999&show_icons=true&locale=en&layout=compact" alt="chandureddy999" /></p>
+<!-- <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandureddy999&show_icons=true&locale=en&layout=compact" alt="chandureddy999" /></div> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandureddy999&show_icons=true&locale=en" alt="chandureddy999" /></p>
+<!-- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandureddy999&show_icons=true&locale=en" alt="chandureddy999" /></div> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandureddy999&" alt="chandureddy999" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandureddy999&" alt="chandureddy999" /></div>
